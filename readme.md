@@ -2,9 +2,9 @@
 Test regular expressions from your command line.
 
 # Installation
-## Option 1: npm
+### Option 1: npm
 `npm install -g regtest`
-## Option 2: From source
+### Option 2: From source
 `TODO`
 
 # Usage
