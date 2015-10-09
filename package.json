@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/sterlingw/regtest/issues"
   },
-  "homepage": "https://github.com/sterlingw/regtest"
+  "homepage": "https://github.com/sterlingw/regtest",
+  "dependencies": {
+    "colors": "^1.1.2"
+  }
 }
