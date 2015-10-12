@@ -1,6 +1,6 @@
 {
   "name": "regtest",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Test regular expressions from your command line.",
   "main": "index.js",
   "bin": "index.js",

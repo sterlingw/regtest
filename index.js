@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 var colors = require('colors');
 var sampleText = require('./sampleText.js');
 var givenRegex = process.argv[2];
