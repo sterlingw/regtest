@@ -1,6 +1,8 @@
 # regtest
 Test regular expressions from your command line.
 
+![](https://i.imgur.com/wyaMw3R.gif)
+
 # Installation
 ### Option 1: npm
 `npm install -g regtest`
