@@ -1,15 +1,13 @@
 # regtest
 Test regular expressions from your command line.
 
-![](https://i.imgur.com/wyaMw3R.gif)
+![](https://i.imgur.com/5Cmboi2.gif)
 
 # Installation
-### Option 1: npm
 `npm install -g regtest`
-### Option 2: From source
-`TODO`
 
 # Usage
+Note: the provided regex must be wrapped in quotes.
 `$ regtest '([1-9])\w+'`
 
 ## License
